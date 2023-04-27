@@ -1,5 +1,2 @@
-import "./css/style.css";
-
-import "./js/app";
-
-// TODO: write your code in app.js
+/* eslint-disable prettier/prettier */
+import "./js/app.test";
